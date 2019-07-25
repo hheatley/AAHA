@@ -1,0 +1,97 @@
+OBJECTID,NPU,NEIGHBORHOOD,Neighborhood Alt
+1,NPU C,"Arden/Habersham, Argonne Forest, Peachtree Battle Alliance, Wyngate","Arden/Habersham, Argonne Forest, Peachtree Battle Alliance, Wyngate"
+2,NPU B,"Peachtree Heights East, Peachtree Hills","Peachtree Heights East, Peachtree Hills"
+3,NPU B,Peachtree Heights West,Peachtree Heights West
+4,NPU B,"Buckhead Forest, South Tuxedo Park","Buckhead Forest, South Tuxedo Park"
+5,NPU A,"Chastain Park, Tuxedo Park","Chastain Park, Tuxedo Park"
+6,NPU B,East Chastain Park,East Chastain Park
+7,NPU B,Garden Hills,Garden Hills
+8,NPU B,Lindbergh/Morosgo,Lindbergh/Morosgo
+9,NPU B,"Buckhead Village, Peachtree Park","Buckhead Village, Peachtree Park"
+10,NPU L,Vine City,Vine City
+11,NPU E,"Georgia Tech, Marietta Street Artery","Georgia Tech, Marietta Street Artery"
+12,NPU M,"Castleberry Hill, Downtown","Castleberry Hill, Downtown"
+13,NPU E,Midtown,Midtown
+14,NPU E,Home Park,Home Park
+15,NPU I,"Beecher Hills, Florida Heights, Westwood Terrace","Beecher Hills, Florida Heights, Westwood Terrace"
+16,NPU S,"Fort McPherson, Venetian Hills","Fort McPherson, Venetian Hills"
+17,NPU X,Sylvan Hills,Sylvan Hills
+18,NPU X,"Capitol View, Capitol View Manor","Capitol View, Capitol View Manor"
+19,NPU S,"Bush Mountain, Oakland City","Bush Mountain, Oakland City"
+20,NPU T,Westview,Westview
+21,NPU T,West End,West End
+22,NPU T,"Ashview Heights, Harris Chiles, Just Us",Ashview Heights
+23,NPU T,"Atlanta University Center, The Villages at Castleberry Hill",AUC
+24,NPU J,"Center Hill, Harvel Homes Community","Center Hill, Harvel Homes Community"
+25,NPU J,"Dixie Hills, Penelope Neighbors, West Lake","Dixie Hills, Penelope Neighbors, West Lake"
+26,NPU C,"Brandon, Castlewood, Westminster/Milmar, Woodfield","Brandon, Castlewood, Westminster/Milmar, Woodfield"
+27,NPU A,"Kingswood, Mt. Paran/Northside, Mt. Paran Parkway, Randall Mill, West Paces Ferry/Northside, Whitewater Creek","Kingswood, Mt. Paran/Northside, Mt. Paran Parkway, Randall Mill, West Paces Ferry/Northside, Whitewater Creek"
+31,NPU X,Perkerson,Perkerson
+32,NPU Y,"Amal Heights, Betmar LaVilla, High Point, Joyland","Amal Heights, Betmar LaVilla, High Point, Joyland"
+33,NPU L,English Avenue,English Avenue
+34,NPU D,"Berkeley Park, Blandtown, Hills Park","Berkeley Park, Blandtown, Hills Park"
+35,NPU D,Underwood Hills,Underwood Hills
+36,NPU C,"Channing Valley, Memorial Park, Springlake, Wildwood (NPU-C)","Channing Valley, Memorial Park, Springlake, Wildwood (NPU-C)"
+37,NPU A,"Margaret Mitchell, Paces, Pleasant Hill","Margaret Mitchell, Paces, Pleasant Hill"
+38,NPU C,"Fernleaf, Hanover West, Ridgewood Heights, Wesley Battle, Westover Plantation","Fernleaf, Hanover West, Ridgewood Heights, Wesley Battle, Westover Plantation"
+39,NPU C,Cross Creek,Cross Creek
+40,NPU Z,"Browns Mill Park, Polar Rock, Swallow Circle/Baywood","Browns Mill Park, Polar Rock, Swallow Circle/Baywood"
+41,NPU Y,"South Atlanta, The Villages at Carver","South Atlanta, The Villages at Carver"
+42,NPU Y,Lakewood Heights,Lakewood Heights
+43,NPU V,"Adair Park, Pittsburgh","Adair Park, Pittsburgh"
+44,NPU V,Mechanicsville,Mechanicsville
+45,NPU V,Peoplestown,Peoplestown
+46,NPU V,"Capitol Gateway, Summerhill","Capitol Gateway, Summerhill"
+47,NPU Z,"Lakewood, Leila Valley, Norwood Manor, Rebel Valley Forest","Lakewood, Leila Valley, Norwood Manor, Rebel Valley Forest"
+48,NPU J,Grove Park,Grove Park
+49,NPU G,"Almond Park, Carey Park","Almond Park, Carey Park"
+50,NPU D,"Bolton, Riverside, Whittier Mill Village","Bolton, Riverside, Whittier Mill Village"
+51,NPU G,"Carver Hills, Rockdale, Scotts Crossing, West Highlands","Carver Hills, Rockdale, Scotts Crossing, West Highlands"
+52,NPU K,"Hunter Hills, Mozley Park","Hunter Hills, Mozley Park"
+53,NPU K,"Bankhead, Washington Park","Bankhead, Washington Park"
+54,NPU K,Knight Park/Howell Station,Knight Park/Howell Station
+55,NPU Q,"Midwest Cascade, Regency Trace","Midwest Cascade, Regency Trace"
+56,NPU P,"Arlington Estates, Ben Hill, Butner/Tell, Elmco Estates, Fairburn, Fairburn Tell, Fairway Acres, Huntington, Lake Estates, Wildwood Forest","Arlington Estates, Ben Hill, Butner/Tell, Elmco Estates, Fairburn, Fairburn Tell, Fairway Acres, Huntington, Lake Estates, Wildwood Forest"
+59,NPU R,Greenbriar,Greenbriar
+61,NPU P,"Ashley Courts, Greenbriar Village, Niskey Cove, Niskey Lake, Sandlewood Estates","Ashley Courts, Greenbriar Village, Niskey Cove, Niskey Lake, Sandlewood Estates"
+62,NPU P,"Ben Hill Terrace, Kings Forest, Old Fairburn Village","Ben Hill Terrace, Kings Forest, Old Fairburn Village"
+63,NPU H,"Bankhead Courts, Bankhead/Bolton, Carroll Heights, Fairburn Heights, Old Gordon","Bankhead Courts, Bankhead/Bolton, Carroll Heights, Fairburn Heights, Old Gordon"
+64,NPU I,Collier Heights,Collier Heights
+65,NPU G,"Atlanta Industrial Park, Bolton Hills, Brookview Heights, Chattahoochee, English Park, Lincoln Homes, Monroe Heights","Atlanta Industrial Park, Bolton Hills, Brookview Heights, Chattahoochee, English Park, Lincoln Homes, Monroe Heights"
+66,NPU R,"Campbellton Road, Fort Valley, Pomona Park","Campbellton Road, Fort Valley, Pomona Park"
+67,NPU I,"Audobon Forest, Audobon Forest West, Chalet Woods, Harland Terrace, Peyton Forest, Westhaven","Audobon Forest, Audobon Forest West, Chalet Woods, Harland Terrace, Peyton Forest, Westhaven"
+68,NPU S,Cascade Avenue/Road,Cascade Avenue/Road
+69,NPU H,"Baker Hills, Bakers Ferry, Boulder Park, Fairburn Road/Wisteria Lane, Ridgecrest Forest, Wildwood (NPU-H), Wilson Mill Meadows, Wisteria Gardens","Baker Hills, Bakers Ferry, Boulder Park, Fairburn Road/Wisteria Lane, Ridgecrest Forest, Wildwood (NPU-H), Wilson Mill Meadows, Wisteria Gardens"
+70,NPU P,"Ben Hill Acres, Briar Glen, Cascade Green, Heritage Valley, Meadowbrook Forest, Mt. Gilead Woods","Ben Hill Acres, Briar Glen, Cascade Green, Heritage Valley, Meadowbrook Forest, Mt. Gilead Woods"
+71,NPU R,"Adams Park, Laurens Valley, Southwest","Adams Park, Laurens Valley, Southwest"
+72,NPU H,"Fairburn Mays, Mays","Fairburn Mays, Mays"
+73,NPU I,"Cascade Heights, East Ardley Road, Green Acres Valley, Green Forest Acres, Horseshoe Community, Magnum Manor, West Manor","Cascade Heights, East Ardley Road, Green Acres Valley, Green Forest Acres, Horseshoe Community, Magnum Manor, West Manor"
+74,NPU I,Ivan Hill,Ivan Hill
+75,NPU H,"Adamsville, Oakcliff","Adamsville, Oakcliff"
+76,NPU F,"Atkins Park, Virginia Highland","Atkins Park, Virginia Highland"
+77,NPU F,Piedmont Heights,Piedmont Heights
+78,NPU F,Morningside/Lenox Park,Morningside/Lenox Park
+79,NPU W,East Atlanta,East Atlanta
+80,NPU E,"Atlantic Station, Loring Heights","Atlantic Station, Loring Heights"
+81,NPU E,"Ardmore, Brookwood","Ardmore, Brookwood"
+82,NPU C,"Collier Hills, Collier Hills North, Colonial Homes","Collier Hills, Collier Hills North, Colonial Homes"
+83,NPU E,"Ansley Park, Sherwood Forest","Ansley Park, Sherwood Forest"
+84,NPU E,Brookwood Hills,Brookwood Hills
+85,NPU M,"Old Fourth Ward, Sweet Auburn","Old Fourth Ward, Sweet Auburn"
+86,NPU N,"Inman Park, Poncey-Highland","Inman Park, Poncey-Highland"
+87,NPU F,Lindridge/Martin Manor,Lindridge/Martin Manor
+88,NPU B,Pine Hills,Pine Hills
+89,NPU B,North Buckhead,North Buckhead
+90,NPU B,"Buckhead Heights, Lenox, Ridgedale Park","Buckhead Heights, Lenox, Ridgedale Park"
+91,NPU B,Brookhaven,Brookhaven
+92,NPU O,"East Lake, The Villages at East Lake","East Lake, The Villages at East Lake"
+93,NPU O,Edgewood,Edgewood
+94,NPU N,"Candler Park, Druid Hills","Candler Park, Druid Hills"
+95,NPU O,Kirkwood,Kirkwood
+96,NPU N,Lake Claire,Lake Claire
+97,NPU Y,"Chosewood Park, Englewood Manor","Chosewood Park, Englewood Manor"
+98,NPU Z,Thomasville Heights,Thomasville Heights
+99,NPU W,"Benteen Park, Boulevard Heights, Custer/McDonough/Guice, State Facility, Woodland Hills","Benteen Park, Boulevard Heights, Custer/McDonough/Guice, State Facility, Woodland Hills"
+100,NPU W,"Grant Park, Oakland","Grant Park, Oakland"
+101,NPU W,Ormewood Park,Ormewood Park
+102,NPU N,"Cabbagetown, Reynoldstown","Cabbagetown, Reynoldstown"
